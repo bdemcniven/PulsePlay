@@ -1,0 +1,11 @@
+qiskit==1.1.1
+qiskit-aer==0.13.2
+qiskit-algorithms==0.2.1
+qiskit-aqua==0.8.0
+qiskit-ibm-provider==0.8.0
+qiskit-ibm-runtime==0.23.0
+qiskit-ignis==0.6.0
+qiskit-machine-learning==0.7.1
+qiskit-nature==0.1.0
+qiskit-terra==0.45.1
+qtconsole==5.5.2
